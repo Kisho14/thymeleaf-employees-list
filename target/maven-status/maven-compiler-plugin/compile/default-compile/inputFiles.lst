@@ -1,0 +1,6 @@
+/home/kishore/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/spring-mvc/07-spring-boot-spring-mvc-crud/thymeleaf-employees-list/src/main/java/com/springboot/thymeleafdemo/entity/Employee.java
+/home/kishore/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/spring-mvc/07-spring-boot-spring-mvc-crud/thymeleaf-employees-list/src/main/java/com/springboot/thymeleafdemo/service/EmployeeServiceImpl.java
+/home/kishore/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/spring-mvc/07-spring-boot-spring-mvc-crud/thymeleaf-employees-list/src/main/java/com/springboot/thymeleafdemo/controller/EmployeeController.java
+/home/kishore/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/spring-mvc/07-spring-boot-spring-mvc-crud/thymeleaf-employees-list/src/main/java/com/springboot/thymeleafdemo/service/EmployeeService.java
+/home/kishore/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/spring-mvc/07-spring-boot-spring-mvc-crud/thymeleaf-employees-list/src/main/java/com/springboot/thymeleafdemo/dao/EmployeeRepository.java
+/home/kishore/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/spring-mvc/07-spring-boot-spring-mvc-crud/thymeleaf-employees-list/src/main/java/com/springboot/thymeleafdemo/ThymeleafdemoApplication.java
